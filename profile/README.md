@@ -43,6 +43,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 BorneLabs is a community-driven technology organization dedicated to open-source projects, collaboration, and education. We foster innovation in software development, emerging technologies, and knowledge sharing.
 
-<img src="https://github.com/cognito-terminal/cognito-mobile-app/blob/main/Assets/bornelabs%20team.png" width="100%" alt="BorneLabs Team"/>
-
 </div>
