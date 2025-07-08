@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/cognito-terminal/cognito-mobile-app/blob/main/Assets/offline.png" width="100%" alt="Cognito Logo"/>
 
 # Cognito
 
