@@ -3,13 +3,13 @@
 
 # Cognito
 
-A terminal-style anonymous chat platform by BorneLabs
+SAS.4
 
 </div>
 
 ## About
 
-SAS.4 Cognito is a Matrix-themed chat platform that offers an immersive, terminal-like interface for fully anonymous conversations. There is no need to sign up or reveal any personal information. Users launch the app and immediately enter chat rooms to exchange messages in real time. The design blends nostalgic hacker aesthetics with a clean, modern interface to ensure readability and usability across devices.
+Cognito is a Matrix-themed chat platform that offers an immersive, terminal-like interface for fully anonymous conversations. There is no need to sign up or reveal any personal information. Users launch the app and immediately enter chat rooms to exchange messages in real time. The design blends nostalgic hacker aesthetics with a clean, modern interface to ensure readability and usability across devices.
 
 ## Platform Preview
 
